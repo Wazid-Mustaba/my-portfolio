@@ -1,0 +1,82 @@
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    margin: 0px;
+    }
+
+span{
+    color: orangered;
+}    
+
+p{
+    color: dimgray;
+    text-align: center;
+}
+
+.button{
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#922B21,#CD6155  );
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half img{
+    width: 100%;
+}
+
+section{
+    height: 600px;
+}
+#top-section{
+    background-image: url(ima/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+
+#middle-section{
+    background-image: url(ima/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+h4{
+    color: orange;
+}
+
+#bottom-section{
+    background-image: url(ima/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.excep{
+    
+    box-shadow: 10px 10px 40px gray;
+    height: 300px;
+    background-color: white;
+
+}
+
+#peragraph{
+    font-size: 30px;
+    color: black;
+    font-weight: 900;
+}
+
+#colorborder{
+    border-left: 7px solid;
+    border-image: linear-gradient(#78281F ,#E74C3C);
+    border-image-slice: 1;
+}
